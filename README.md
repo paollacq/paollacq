@@ -3,9 +3,9 @@
 
 - :blue_heart: I’m currently working on **getting better at Cryptography**
 
-- :yellow_heart: I’m currently learning **Hardware, Cybersecurity and Blockchain**
+- :yellow_heart: I’m currently learning **Cryptofinance, Cybersecurity and Blockchain**
 
-- :green_heart: Courses i'm envolved now **Cisco and C|CT Ec-Coucil**
+- :green_heart: Courses i'm envolved now **C|CT Ec-Coucil**
 
 <a href="https://github.com/paollacq/convoychat">
   <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=paollacq&layout=compact&langs_count=8&card_width=320" />
